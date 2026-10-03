@@ -5,7 +5,7 @@ COBFLAGS := -x -free -I copybooks -Wall
 BINDIR   := bin
 SRC      := src
 
-.PHONY: all clean test loadcust dirs
+.PHONY: all clean test loadcust dirs sample-data
 
 all: dirs $(BINDIR)/invgen $(BINDIR)/loadcust
 
@@ -24,6 +24,9 @@ $(BINDIR)/loadcust: $(SRC)/LOADCUST.cob copybooks/CUSTREC.cpy
 
 loadcust: $(BINDIR)/loadcust
 	$(BINDIR)/loadcust
+
+sample-data:
+	python3 scripts/generate_sample_data.py
 
 test: all
 	./tests/run_tests.sh

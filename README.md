@@ -17,6 +17,12 @@ bin/invgen        # write output/INVOICES.TXT, REJECTS.DAT, SUMMARY.TXT
 make test         # golden-file regression
 ```
 
+Regenerate fixed-width sample inputs (optional):
+
+```bash
+python3 scripts/generate_sample_data.py
+```
+
 ## Layout
 
 ```
