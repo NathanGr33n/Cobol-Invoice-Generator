@@ -11,10 +11,6 @@ DATA DIVISION.
 WORKING-STORAGE SECTION.
 01  WS-DATE-INT              PIC S9(9) COMP-5.
 01  WS-JOB-DATE              PIC 9(8).
-01  WS-QTY-X                 PIC X(7).
-01  WS-PRICE-X               PIC X(7).
-01  WS-QTY-N                 PIC 9(5)V99.
-01  WS-PRICE-N               PIC 9(5)V99.
 
 LINKAGE SECTION.
 01  LS-LINE-ITEM.
@@ -34,8 +30,6 @@ MAIN-LOGIC.
     MOVE 0 TO LS-STATUS
 
     *> Non-numeric quantity or unit price
-    MOVE LS-QTY TO WS-QTY-N
-    MOVE LS-UNIT-PRICE TO WS-PRICE-N
     IF LS-QTY IS NOT NUMERIC
         OR LS-UNIT-PRICE IS NOT NUMERIC
         MOVE "02" TO LS-REASON
