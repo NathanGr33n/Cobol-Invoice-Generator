@@ -3,3 +3,13 @@
 #Dev Docs
 /DevDocs
 
+# Build artifacts
+/bin/
+*.so
+*.o
+
+# Runtime outputs and indexed master
+/output/
+data/CUSTOMERS.DAT
+data/CUSTOMERS.DAT.lck
+data/CONTROL.DAT
