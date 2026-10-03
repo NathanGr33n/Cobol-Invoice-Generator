@@ -1,0 +1,7 @@
+INVOICE RUN SUMMARY - HARDLINE STRIPING LLC
+
+Invoices generated:      3
+Line items read:        21
+Rejects:                 6
+Grand total billed:      $5,648.01
+Total tax:                 $126.51

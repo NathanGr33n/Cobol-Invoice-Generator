@@ -1,0 +1,62 @@
+                         HARDLINE STRIPING LLC
+                         Invoice No: 000142
+                         Date: 2026-10-03   Due: 2026-11-02
+
+Bill To:
+  ACME PROPERTY MGMT
+  123 MAIN ST
+  TIGARD, OR 97223
+
+DATE        DESCRIPTION                        QTY     PRICE      AMOUNT
+----------  ---------------------------------- ------- ---------- -----------
+2026-09-28  RESTRIPE 40-STALL LOT                   1.00     450.00        450.00
+2026-09-28  ADA SYMBOL REPAINT                      3.00      35.00        105.00
+2026-09-29  WHEEL STOP REPLACE                      6.00      42.50        255.00
+2026-09-29  DIRECTIONAL ARROW PAINT                 4.00      28.00        112.00
+2026-09-30  CURB PAINT - YELLOW                   120.00       1.75        210.00
+
+                                               SUBTOTAL:       1,132.00
+                                               TAX (  0.00%):         0.00
+                                               TOTAL DUE:      1,132.00
+
+                         HARDLINE STRIPING LLC
+                         Invoice No: 000143
+                         Date: 2026-10-03   Due: 2026-11-17
+
+Bill To:
+  RIVER CITY HOA
+  800 RIVER RD
+  PORTLAND, OR 97201
+
+DATE        DESCRIPTION                        QTY     PRICE      AMOUNT
+----------  ---------------------------------- ------- ---------- -----------
+2026-09-20  PARKING LOT FULL RESTRIPE               1.00   1,200.00      1,200.00
+2026-09-20  FIRE LANE STENCIL                       8.00      22.00        176.00
+2026-09-21  SPEED BUMP INSTALL                      2.00     375.00        750.00
+2026-09-21  CROSSWALK THERMOPLASTIC                 3.00     180.00        540.00
+2026-09-22  HANDICAP STALL PACKAGE                  2.00      95.00        190.00
+
+                                               SUBTOTAL:       2,856.00
+                                               TAX (  0.00%):         0.00
+                                               TOTAL DUE:      2,856.00
+
+                         HARDLINE STRIPING LLC
+                         Invoice No: 000144
+                         Date: 2026-10-03   Due: 2026-11-02
+
+Bill To:
+  BEAVERTON RETAIL LLC
+  4550 SW MURRAY
+  BEAVERTON, OR 97005
+
+DATE        DESCRIPTION                        QTY     PRICE      AMOUNT
+----------  ---------------------------------- ------- ---------- -----------
+2026-09-15  RETAIL LOT RESTRIPE                     1.00     890.00        890.00
+2026-09-15  CART CORRAL STRIPING                    4.00      55.00        220.00
+2026-09-16  STOP BAR REPAINT                        6.00      18.50        111.00
+2026-09-16  NUMBER STENCIL 1-50                    50.00       3.25        162.50
+2026-09-17  ENTRY LANE ARROWS                       5.00      30.00        150.00
+
+                                               SUBTOTAL:       1,533.50
+                                               TAX (  8.25%):       126.51
+                                               TOTAL DUE:      1,660.01
